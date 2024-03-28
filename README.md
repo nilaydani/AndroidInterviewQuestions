@@ -98,6 +98,7 @@ class MyActivity : AppCompatActivity() {
 ```
 
 This selection of questions and answers covers a broad range of advanced topics in Android development. It's important to dive deeper into each topic and practice coding to fully prepare for an advanced Android interview.
+
 **Q11: What is the difference between `==` and `===` in Kotlin?**
 
 **A11:**
