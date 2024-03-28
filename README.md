@@ -86,4 +86,7 @@ val okHttpClient = OkHttpClient.Builder()
     .build()
 ```
 
-This list of questions and answers should help in addressing the gaps identified in the feedback and enhance the candidate's understanding and proficiency in the mentioned areas.
+
+Learn collection operators/higher order functions like map, sort, groupby, filter, sumby, fold, reduce, etc. Practice string manipulations like splitting, substring, conversion to int, etc. Learn Collections, Sequences, Pair, etc.
+
+kotlin basics(data class, inheritence, delegation, sealed classes, etc), data class in depth. kotlin collections and high order functions (map, filter, groupby etc) kotlin flow and channels coroutines in depth Architecture patterns MVVM, MVI Solid principles Unit and UI testing Jetpack Compose Advise : Keep your answers brief and very accurate. No long answers jumping here and there, Be technical and to the point.
